@@ -12,3 +12,9 @@ A simple calculator project created to practice Git and GitHub workflow.
 ## Description
 
 This project takes two numbers from the user and performs basic addition and subtraction.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
